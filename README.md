@@ -22,3 +22,5 @@ This application allows the users to Create and manage multiple shopping lists. 
 - Now, open another terminal and telnet to the port which is used by your project
 - You would be connected to the server and can manage your shopping lists
 - Use above commands to interact with your lists
+
+Inspired by [HexDoc](https://hexdocs.pm/elixir/introduction-to-mix.html)
